@@ -1,4 +1,4 @@
-baseURL = "https://recetteeco.vercel.app/"
+baseURL = "https://recetteco.vercel.app/"
 languageCode = "en-us"
 title = "Meilleur du Chef"
 theme = "x"
@@ -66,7 +66,7 @@ sectionPagesMenu = "main"
 
 [author]
     name = "Admin"
-    homepage = "https://recetteeco.vercel.app"
+    homepage = "https://recetteco.vercel.app"
     bio = "Véritable Amateur de Nourriture"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
