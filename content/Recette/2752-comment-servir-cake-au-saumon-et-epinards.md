@@ -1,0 +1,90 @@
+---
+description: "Comment Servir Cake au saumon et épinards"
+title: "Comment Servir Cake au saumon et épinards"
+slug: 2752-comment-servir-cake-au-saumon-et-epinards
+date: 2020-11-29T00:14:27.946Z
+image: https://img-global.cpcdn.com/recipes/672f0b895791207d/751x532cq70/cake-au-saumon-et-epinards-photo-principale-de-la-recette.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/672f0b895791207d/751x532cq70/cake-au-saumon-et-epinards-photo-principale-de-la-recette.jpg
+cover: https://img-global.cpcdn.com/recipes/672f0b895791207d/751x532cq70/cake-au-saumon-et-epinards-photo-principale-de-la-recette.jpg
+author: Clifford Santos
+ratingvalue: 3.5
+reviewcount: 9
+recipeingredient:
+- "150 g pav de saumon"
+- "170 g dpinards"
+- "125 g farine"
+- "70 g gruyre rp"
+- "3 oeufs"
+- "6 cl dhuile dolive"
+- "1 sachet de levure chimique"
+- "1 noix de beurre"
+- " sel"
+- " poivre"
+recipeinstructions:
+- "Préchauffer le four à 180°c."
+- "Faire cuire les épinards dans une casserole d’eau bouillante. Les faire ensuite revenir dans une poêle où le beurre a préalablement fondu. Ajouter sel et poivre."
+- "Fouetter dans un bol les œufs, le lait, l’huile et la farine. Rajouter le gruyère râpé, les épinards et le saumon que vous aurez émietté ou coupé en très petits morceaux."
+- "Verser dans un moule à cake et mettre au four pour 40 minutes. Vérifier la cuisson avec un couteau."
+categories:
+- Resep
+tags:
+- cake
+- au
+- saumon
+
+katakunci: cake au saumon 
+nutrition: 148 calories
+recipecuisine: Indonesian
+preptime: "PT14M"
+cooktime: "PT51M"
+recipeyield: "4"
+recipecategory: Lunch
+
+---
+
+
+![Cake au saumon et épinards](https://img-global.cpcdn.com/recipes/672f0b895791207d/751x532cq70/cake-au-saumon-et-epinards-photo-principale-de-la-recette.jpg)
+
+La plupart des gens n'osent pas cuisiner cake au saumon et épinards de peur que la cuisine ne soit pas bonne. Beaucoup de choses affectent la qualité gustative de cake au saumon et épinards! Tout d'abord, du type d'ustensile de cuisine, assurez-vous toujours d'utiliser des ustensiles de cuisine de qualité et toujours en état de propreté. De plus, pour que la nourriture ait un goût encore plus délicieux, bien sûr, vous devez utiliser diverses épices afin que la nourriture préparée ne soit pas fade. De plus, prenez beaucoup de pratique pour reconnaître les différentes saveurs de la cuisine, profitez pleinement de chaque activité culinaire, car les sentiments d'enthousiasme, de calme et de non-précipitation affectent aussi le goût de la cuisine!
+
+<!--inarticleads1-->
+
+Vous pouvez avoir cake au saumon et épinards en utilisant 10 Ingrédients et 4 pas. Voici comment vous faire cette.
+
+##### Ingrédients de cake au saumon et épinards :
+
+1. Vous avez besoin 150 g pavé de saumon
+1. Vous devez vous préparer 170 g d’épinards
+1. Vous avez besoin 125 g farine
+1. Vous devez vous préparer 70 g gruyère râpé
+1. Utilisation 3 oeufs
+1. Fournir 6 cl d’huile d’olive
+1. Vous devez vous préparer 1 sachet de levure chimique
+1. Vous devez vous préparer 1 noix de beurre
+1. Vous avez besoin  sel
+1. Utilisation  poivre
+
+
+Cake aux épinards frais et à la truite fumée, Cake aux épinards frais et à la truite fumée. Pendant ce temps, coupez le saumon en morceaux. Dans un saladier, fouettez les œufs avec le lait, l&#39;huile et la farine. Incorporez le gruyère râpé, les morceaux de saumon et les épinards égouttés. 
+
+<!--inarticleads2-->
+
+##### Cake au saumon et épinards instructions :
+
+1. Préchauffer le four à 180°c.
+1. Faire cuire les épinards dans une casserole d’eau bouillante. Les faire ensuite revenir dans une poêle où le beurre a préalablement fondu. Ajouter sel et poivre.
+1. Fouetter dans un bol les œufs, le lait, l’huile et la farine. Rajouter le gruyère râpé, les épinards et le saumon que vous aurez émietté ou coupé en très petits morceaux.
+1. Verser dans un moule à cake et mettre au four pour 40 minutes. Vérifier la cuisson avec un couteau.
+
+
+Versez la préparation dans une moule à cake beurré et fariné. Une nouvelle version de Cake salé au Saumon &amp; Epinards à emporter pour pique-niquer. On le déguste aussi bien chaud que froid. Croq&#39;cake au saumon fumé, aux épinards et pois gourmands. Voici un cake qui a une touche de croque-monsieur ! 
+
+<!--inarticleads1-->
+
+<p>
+La préparation des aliments un plat savoureux pour les membres de votre famille ne doit pas vous coûter des heures de travail dans la cuisine. Il existe un grand nombre de recettes telles que la recette Cake au saumon et épinards, que vous pouvez utiliser pour préparer rapidement un bon plat, bientôt votre famille profitera des fruits de votre travail.
+</p>
+
+<p>
+<i>Si vous trouvez cette Cake au saumon et épinards recette utile, partagez-la avec vos bons amis ou votre famille, merci et bonne chance.</i>
+</p>
